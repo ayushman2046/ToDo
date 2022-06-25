@@ -1,0 +1,35 @@
+body{
+    background-color: #00ff3b47;
+}
+
+.col-md-5{
+    margin-top: 120px;
+    background-color: white;
+}
+h1{
+    text-align: center !important;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.ayushman{
+    display: inline !important;
+    border: 2px solid black;
+    width: 85% !important;
+}
+.ayush{
+    margin-left: 5px;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    display: inline;
+}
+i{
+    color: red;
+    padding: 5px;
+    cursor: pointer;
+}
+.nav-item{
+    padding: 0px;
+}
